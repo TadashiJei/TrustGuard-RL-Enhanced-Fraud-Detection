@@ -42,7 +42,7 @@ Fraud detection is a critical challenge across industries. TrustGuard addresses 
 1. Clone the repository:
    ```bash
    git clone https://github.com/TrustGuard-RL-Enhanced-Fraud-Detection/TrustGuard-RL-Enhanced-Fraud-Detection.git
-   cd TrustGuard
+   cd TrustGuard-RL-Enhanced-Fraud-Detection
    ```
 
 2. Install dependencies:
